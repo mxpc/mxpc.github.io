@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmxpc_io=self.webpackChunkmxpc_io||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Aerial Images and Annotations","permalink":"/blog/getting-started","unlisted":false}]}')}}]);

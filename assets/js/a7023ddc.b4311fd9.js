@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmxpc_io=self.webpackChunkmxpc_io||[]).push([[713],{3457:e=>{e.exports=JSON.parse('[{"label":"Deep Learning","permalink":"/blog/tags/deep-learning","count":1},{"label":"Satellite Imagery","permalink":"/blog/tags/satellite-imagery","count":1}]')}}]);
