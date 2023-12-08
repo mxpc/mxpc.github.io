@@ -84,6 +84,10 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [
+        {
+          label: 'Contact',
+          href: '/about#contact',
+        },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} MX PLUS C Ltd.`,
     },
