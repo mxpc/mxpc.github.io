@@ -1,6 +1,7 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import React from 'react';
 
 type FeatureItem = {
   title: string;
@@ -10,12 +11,11 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Team of Cutting Edge Researchers',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Distinguished in ML and AI, our expert PhD team pioneers innovation, bringing cutting-edge solutions to elevate your projects.
       </>
     ),
   },
@@ -24,18 +24,16 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        You set the goal, and like we'll maximize impact; ensuring your projects excel with purpose and efficiency.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Proven Track Record',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Results Speak Louder: With a history of success, trust us to turn your aspirations into measurable achievements.
       </>
     ),
   },
